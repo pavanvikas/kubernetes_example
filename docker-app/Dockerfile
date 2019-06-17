@@ -1,4 +1,4 @@
-FROM docker.artifactory/docker-framework:latest
+FROM myartifactory.com/docker-framework:latest
 
 MAINTAINER Jainish Shah jainishs@jfrog.com
 
