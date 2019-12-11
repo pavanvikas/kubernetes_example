@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM ansible/ansible:ubuntu1404
 
 RUN apk update
 RUN apk add vim
