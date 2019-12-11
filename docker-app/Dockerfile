@@ -1,2 +1,2 @@
-FROM ansible/ansible:ubuntu1404
+FROM docker.bintray.io/jfrog/artifactory-pro
 
